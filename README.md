@@ -4,12 +4,11 @@
 
 <p align="center"><img src="https://media.giphy.com/media/wlwIxMVudTM7ixaiTd/giphy.gif" width="150"/> 
 
-<h1 align="center">Hello there 👋, I'm Alberto Pérez</h1>
-<h3 align="center">Mobile development enthusiast, maker culture, always trying to learn something new every day and I am from Mexico City.</h3>
+<h1 align="center">Hola a todos👋, Soy Alberto Pérez</h1>
+<h3 align="center"> Soy un desarrollador de aplicaciones para dispositivos Android, me gusta hacer proyectos en Arduino y aprender algo nuevo todos los días sobre cualquier tema, me encuentro en México City.</h3>
 
-- 🔭 I’m currently working to improve my level of English.
-- 🌱 I’m currently learning: **Jetpack Compose, JavaScript, firebase**
-- 📫 How to reach me: **abrecht3@gmail.com**
+- 🌱 mejorando mis habilidades en: **Jet pack Compose, JavaScript, firebase y en el idioma inglés y alemán
+- 📫 email de contacto: **aperezcova86@gmail.com**
 
 ### Skills
 <p align="left">
