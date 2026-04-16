@@ -1,12 +1,12 @@
 ![Baner de Alberto](github-header-image.png)
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abrecht3)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-p%C3%A9rez-753861401/?skipRedirect=true)
 
 <p align="center"><img src="https://media.giphy.com/media/wlwIxMVudTM7ixaiTd/giphy.gif" width="250"/> 
 
 <h1 align="center">Hola a todos👋, Soy Alberto Pérez</h1>
-<h3 align="center"> Soy un desarrollador de aplicaciones para dispositivos Android, me gusta hacer proyectos en Arduino y aprender algo nuevo todos los días sobre cualquier tema, me encuentro en México City.</h3>
+<h3 align="center"> Mi experiencia principal es como desarrollador de aplicaciones para dispositivos Android. Me apasiona la tecnología en general, y disfruto aplicando esa curiosidad a proyectos prácticos, como el desarrollo con Arduino. Actualmente, me encuentro en la Ciudad de México. </h3>
 
 - 🌱 mejorando mis habilidades en: **Jet pack Compose, JavaScript, firebase y en el idioma inglés y alemán
 - 📫 email de contacto: **aperezcova86@gmail.com**
@@ -32,10 +32,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrecht3&label=Profile%20views&color=8D33FF&style=flat" alt="abrecht3"/></p>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=abrecht3&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrecht3&layout=compact&theme=radical)
 
 <!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=abrecht3&show_icons=true&theme=radical)
